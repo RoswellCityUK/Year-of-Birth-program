@@ -6,7 +6,7 @@ package yearOfBirthProgram;
 
 /**
  *
- * @author tg
+ * @author Tomasz Grabowski
  */
 public class APIKeys {
     //Horoscope Api you can get here for FREE: https://rapidapi.com/sameer.kumar/api/aztro/
