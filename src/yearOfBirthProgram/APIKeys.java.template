@@ -1,0 +1,14 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package yearOfBirthProgram;
+
+/**
+ *
+ * @author tg
+ */
+public class APIKeys {
+    //Horoscope Api you can get here for FREE: https://rapidapi.com/sameer.kumar/api/aztro/
+    public static String HoroscopApi = "-- YOUR API KEY GOES HERE --";
+}
